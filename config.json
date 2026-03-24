@@ -1,0 +1,11 @@
+{
+    "llm_config": {
+        "api_key": "",
+        "api_key_list": [],
+        "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+        "default_model": "deepseek-v3-2-251201",
+        "max_tokens": 4000,
+        "temperature": 0.3
+    }
+
+}
